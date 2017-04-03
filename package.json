@@ -1,6 +1,6 @@
 {
-  "name": "@types/rxjs",
-  "version": "1.0.0",
+  "name": "@types/reactivex-rxjs",
+  "version": "5.2.0",
   "description": "rxjs gloabl typings",
   "main": "index.d.ts",
   "scripts": {},
@@ -8,12 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/ganeshyb/rxjs-global.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ganeshyb/rxjs-global/issues"
-  },
-  "homepage": "https://github.com/ganeshyb/rxjs-global#readme",
+  "license": "MIT",
   "dependencies": {
     "@reactivex/rxjs": "^5.2.0"
   }
