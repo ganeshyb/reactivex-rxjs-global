@@ -1,6 +1,6 @@
 {
   "name": "@types/reactivex-rxjs",
-  "version": "5.2.0",
+  "version": "5.4.1",
   "description": "rxjs gloabl typings",
   "main": "index.d.ts",
   "scripts": {},
