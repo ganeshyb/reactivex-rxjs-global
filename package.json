@@ -9,7 +9,7 @@
     "url": "git+https://github.com/ganeshyb/rxjs-global.git"
   },
   "license": "MIT",
-  "dependencies": {
-    "@reactivex/rxjs": "5.2.0"
+  "devDependencies": {
+    "@reactivex/rxjs": "^5.4.1"
   }
 }
